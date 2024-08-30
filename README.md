@@ -1,2 +1,4 @@
-# Image_slider
-An interactive image slider that adjusts smoothly across different screen sizes.
+# Animated Imaged Slider HTML CSS & JavaScript 
+## Animated Carousel Design
+
+<img src="./image/Image Slider using HTML CSS and JavaScript.png">
